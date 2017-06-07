@@ -1,0 +1,28 @@
+color:
+  brandColors:
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
+  brandStrength: 0.7627392017748207
+  lightness: 0.1290656926576048
+  saturation: 0.14068948989734054
+  rhythmicContrast: 0.604727195110172
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+name: CODE-COMMS
+layout_spectrum: 0.0009287460707128048
+typography_spectrum: 0.6628399912733585
+content: []
+title: CODE Comunications
+description: COMMUNICATE ¦ CHANGE
+github: true
+author:
+  name: Theres
+  url: 'http://www.code-pr.co.uk'
