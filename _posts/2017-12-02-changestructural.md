@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Change//STRUCTURAL
-dateModified: '2017-12-02T22:18:18.333Z'
-datePublished: '2017-12-02T22:19:22.501Z'
+dateModified: '2017-12-02T22:19:49.501Z'
+datePublished: '2017-12-02T22:19:50.105Z'
 title: ''
 author: []
 publisher: {}
