@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Change//CULTURAL
-dateModified: '2017-12-02T21:39:28.590Z'
-datePublished: '2017-12-02T21:39:28.928Z'
+dateModified: '2017-12-02T22:19:49.501Z'
+datePublished: '2017-12-02T22:19:50.120Z'
 title: ''
 author: []
 publisher: {}
