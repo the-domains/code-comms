@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: Smashing Boundaries
-dateModified: '2017-12-02T21:36:05.510Z'
-datePublished: '2017-12-02T21:36:06.236Z'
+dateModified: '2017-12-02T21:39:28.590Z'
+datePublished: '2017-12-02T21:39:28.933Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-12-02-smashing-boundaries.md
 starred: false
 datePublishedOriginal: '2017-12-02T21:36:06.236Z'
-sourcePath: _posts/2017-12-02-smashing-boundaries.md
 _type: Blurb
 
 ---
