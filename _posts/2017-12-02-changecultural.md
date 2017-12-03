@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: COMPLETE - Change//CULTURAL
-dateModified: '2017-12-03T01:01:38.991Z'
-datePublished: '2017-12-03T01:01:40.581Z'
+dateModified: '2017-12-03T01:06:23.540Z'
+datePublished: '2017-12-03T01:06:24.055Z'
 title: ''
 author: []
 publisher: {}
@@ -25,9 +25,9 @@ INTERIM GLOBAL INTERNAL COMMUNICATIONS MANAGER
 
 Spearheaded operations of global internal communications team, while leading communications for group wide global reorganisations. Developed central messaging matrix, Q&As, lines to take, presentation decks, videos and case studies to illustrate change process for colleagues. Directed global implementation of new Salesforce Chatter technology platform. Managed communications for Finance Transformation work stream, including global deployment of X3 Finance and CRM technology platform.
 
-Facilitated major structural reorganisation at Sage through designing the major change communications strategy and plan encompassing six functional reorganisations and 12 work streams across 24 countries
+Facilitated major structural reorganisation at Sage through designing the major change communications strategy and plan encompassing six functional reorganisations and 12 work streams across 24 countries.
 
-Ensured rapid understanding of future vision through major cultural change and engagement campaign, including hi-tech international events, and social media campaigns supported by materials including videos, animations, posters and infographics
+Ensured rapid understanding of future vision through major cultural change and engagement campaign, including hi-tech international events, and social media campaigns supported by materials including videos, animations, posters and infographics.
 
 _»Being Co-op_
 
@@ -37,6 +37,6 @@ CHANGE & ENGAGEMENT LEAD
 
 Leading the Engagement workstream to deliver a culture reset for the Co-operative Group.
 
-Responsible for embedding and sustaining the new Co-op culture within every element of the colleague lifecycle
+Responsible for embedding and sustaining the new Co-op culture within every element of the colleague lifecycle.
 
 Conducting change readiness activities and developing change plan Running projects and engagement activities to ensure delivery through Centres of Excellence and Business Units (Retail, Insurance etc.)
