@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: COMPLETE - Change//CULTURAL
-dateModified: '2017-12-03T01:06:23.540Z'
-datePublished: '2017-12-03T01:06:24.055Z'
+description: Change//CULTURAL
+dateModified: '2017-12-03T01:13:39.777Z'
+datePublished: '2017-12-03T01:13:40.334Z'
 title: ''
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-12-02T23:10:07.117Z'
 _type: Blurb
 
 ---
-COMPLETE - Change//CULTURAL
+Change//CULTURAL
 
 Disruption
 
