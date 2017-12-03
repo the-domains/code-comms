@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: COMPLETE - Change//MANAGEMENT
-dateModified: '2017-12-03T01:05:51.457Z'
-datePublished: '2017-12-03T01:05:51.954Z'
+description: Change//MANAGEMENT
+dateModified: '2017-12-03T01:13:23.320Z'
+datePublished: '2017-12-03T01:13:24.309Z'
 title: ''
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-12-02T21:37:36.969Z'
 _type: Blurb
 
 ---
-COMPLETE - Change//MANAGEMENT
+Change//MANAGEMENT
 
 _»Introducing/implementing new systems and ways of working_
 
@@ -34,6 +34,16 @@ Succeeded in making complex change simple and understandable through development
 Received commendations for varied and complex communications campaign.
 
 _»Legal & general_
+
+CHANGE COMMUNICATIONS LEAD
+
+**LEGAL & GENERAL**
+
+Directed communications on two major, strategic change programmes. Developed communication and stakeholder engagement strategies, established vision for change linked to the strategy and sponsored by leaders, established project communications team and delivered operational change communications and internal PR.
+
+Through bringing together a number of major technology suppliers with business stakeholders, succeeded in successfully delivering a technology change programme which had been at risk due to lack of critical communications.
+
+Through developing coherent and well sponsored change stories, achieved employee change acceptance, thereby facilitating future roll-outs.
 
 _»Royal Mail International Programmes (electronic customs etc.)_
 
