@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: COMPLETE - Comms//LEADERSHIP
-dateModified: '2017-12-03T01:05:12.249Z'
-datePublished: '2017-12-03T01:05:12.767Z'
+description: Comms//LEADERSHIP
+dateModified: '2017-12-03T01:15:19.036Z'
+datePublished: '2017-12-03T01:15:19.623Z'
 title: ''
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-12-02T21:38:27.644Z'
 _type: Blurb
 
 ---
-COMPLETE - Comms//LEADERSHIP
+Comms//LEADERSHIP
 
 _»EDF & Sage (need to use different companies)_
 
