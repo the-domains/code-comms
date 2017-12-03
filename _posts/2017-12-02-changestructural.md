@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: COMPLETE - Change//STRUCTURAL
-dateModified: '2017-12-03T01:07:09.487Z'
-datePublished: '2017-12-03T01:07:10.065Z'
+description: Change//STRUCTURAL
+dateModified: '2017-12-03T01:15:06.083Z'
+datePublished: '2017-12-03T01:15:06.805Z'
 title: ''
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-12-02T23:04:42.317Z'
 _type: Blurb
 
 ---
-COMPLETE - Change//STRUCTURAL
+Change//STRUCTURAL
 
 _»Company re-structures - EDF Energy, Sage_
 
