@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: COMPLETE - Comms//LEADERSHIP
-dateModified: '2017-12-03T00:58:19.560Z'
-datePublished: '2017-12-03T00:58:20.052Z'
+dateModified: '2017-12-03T01:05:12.249Z'
+datePublished: '2017-12-03T01:05:12.767Z'
 title: ''
 author: []
 publisher: {}
@@ -15,7 +15,7 @@ _type: Blurb
 ---
 COMPLETE - Comms//LEADERSHIP
 
-»EDF & Sage (need to use different companies)
+_»EDF & Sage (need to use different companies)_
 
 INTERIM HEAD OF COMMUNICATIONS
 
@@ -23,9 +23,9 @@ INTERIM HEAD OF COMMUNICATIONS
 
 Developed and implemented communications and engagement strategy across multiple locations and internal departments. Introduced new channels and initiatives to improve communications and understanding between corporate leadership and employees. Monitored and measured effectiveness of communications activities against objectives and provided recommendations for future activity.
 
-Leveraged strong relationships with corporate communications, PR and press office to create and deliver cohesive internal and external communications narrative around building new power stations and wind farms
+Leveraged strong relationships with corporate communications, PR and press office to create and deliver cohesive internal and external communications narrative around building new power stations and wind farms.
 
-Increased employee engagement completions from less than 40% to over 70%, increased communications and leadership visibility scores as well as promoting unity and understanding between colleagues of different skills, roles and backgrounds
+Increased employee engagement completions from less than 40% to over 70%, increased communications and leadership visibility scores as well as promoting unity and understanding between colleagues of different skills, roles and backgrounds.
 
 INTERIM GLOBAL INTERNAL COMMUNICATIONS MANAGER
 
@@ -33,10 +33,10 @@ INTERIM GLOBAL INTERNAL COMMUNICATIONS MANAGER
 
 Spearheaded operations of global internal communications team, while leading communications for group-wide global reorganisations. Developed central messaging matrix, Q&As, lines to take, presentation decks, videos and case studies to illustrate change process for colleagues. Directed global implementation of new Salesforce Chatter technology platform. Managed communications for Finance Transformation work stream, including global deployment of X3 Finance and CRM technology platform.
 
-Facilitated major structural reorganisation at Sage through designing the major change communications strategy and plan encompassing six functional reorganisations and 12 work streams across 24 countries
+Facilitated major structural reorganisation at Sage through designing the major change communications strategy and plan encompassing six functional reorganisations and 12 work streams across 24 countries.
 
-Ensured rapid understanding of future vision through major cultural change and engagement campaign, including hi-tech international events, and social media campaigns supported by materials including videos, animations, posters and info-graphics
+Ensured rapid understanding of future vision through major cultural change and engagement campaign, including hi-tech international events, and social media campaigns supported by materials including videos, animations, posters and infographics.
 
-»Strategy roll-out
+_»Strategy roll-out_
 
-»Leadersip visibility
+_»Leadersip visibility_
