@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: COMPLETE - COMMS//Leadership
-dateModified: '2017-12-03T00:57:39.781Z'
-datePublished: '2017-12-03T00:57:40.328Z'
+description: COMPLETE - Comms//LEADERSHIP
+dateModified: '2017-12-03T00:58:19.560Z'
+datePublished: '2017-12-03T00:58:20.052Z'
 title: ''
 author: []
 publisher: {}
@@ -13,7 +13,7 @@ datePublishedOriginal: '2017-12-02T21:38:27.644Z'
 _type: Blurb
 
 ---
-COMPLETE - COMMS//Leadership
+COMPLETE - Comms//LEADERSHIP
 
 »EDF & Sage (need to use different companies)
 
@@ -31,7 +31,7 @@ INTERIM GLOBAL INTERNAL COMMUNICATIONS MANAGER
 
 **SAGE TECHNOLOGY GROUP**
 
-Spearheaded operations of global internal communications team, while leading communications for group-wide global reorganisations. Developed central messaging matrix, Q&As, lines to take, presentation decks, videos and case studies to illustrate change process for colleagues. Directed global implementation of new Salesforce Chatter technology platform. Managed communications for Finance  Transformation work stream, including global deployment of X3 Finance and CRM technology platform.
+Spearheaded operations of global internal communications team, while leading communications for group-wide global reorganisations. Developed central messaging matrix, Q&As, lines to take, presentation decks, videos and case studies to illustrate change process for colleagues. Directed global implementation of new Salesforce Chatter technology platform. Managed communications for Finance Transformation work stream, including global deployment of X3 Finance and CRM technology platform.
 
 Facilitated major structural reorganisation at Sage through designing the major change communications strategy and plan encompassing six functional reorganisations and 12 work streams across 24 countries
 
