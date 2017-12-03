@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: COMMS//Leadership
-dateModified: '2017-12-03T00:56:48.918Z'
-datePublished: '2017-12-03T00:56:49.801Z'
+dateModified: '2017-12-03T00:57:05.244Z'
+datePublished: '2017-12-03T00:57:05.806Z'
 title: ''
 author: []
 publisher: {}
@@ -35,7 +35,7 @@ Spearheaded operations of global internal communications team, while leading com
 
 Facilitated major structural reorganisation at Sage through designing the major change communications strategy and plan encompassing six functional reorganisations and 12 work streams across 24 countries
 
-Ensured rapid understanding of future vision through major cultural change and engagementcampaign, including hi-tech international events, and social media campaigns supported by materials including videos, animations, posters and infographics
+Ensured rapid understanding of future vision through major cultural change and engagement campaign, including hi-tech international events, and social media campaigns supported by materials including videos, animations, posters and info-graphics
 
 »Strategy roll-out
 
