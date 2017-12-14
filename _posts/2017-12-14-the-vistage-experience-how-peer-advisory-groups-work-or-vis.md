@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   The Critical Role of Communications and Engagement in Ensuring Successful
   Business Growth
-dateModified: '2017-12-14T20:09:56.058Z'
-datePublished: '2017-12-14T20:09:56.872Z'
+dateModified: '2017-12-14T20:11:55.800Z'
+datePublished: '2017-12-14T20:11:55.937Z'
 title: The Vistage Experience - How Peer Advisory Groups Work | Vistage
 author: []
 publisher:
