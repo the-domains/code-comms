@@ -1,15 +1,15 @@
 ---
 inFeed: true
 description: What Great Comms People do Well
-dateModified: '2017-12-14T20:09:25.674Z'
-datePublished: '2017-12-14T20:09:26.479Z'
+dateModified: '2017-12-14T20:09:56.058Z'
+datePublished: '2017-12-14T20:09:56.884Z'
 title: ''
 author: []
 publisher: {}
 via: {}
+sourcePath: _posts/2017-12-14-what-great-comms-people-do-well.md
 starred: false
 datePublishedOriginal: '2017-12-14T20:09:26.479Z'
-sourcePath: _posts/2017-12-14-what-great-comms-people-do-well.md
 _type: Blurb
 
 ---
