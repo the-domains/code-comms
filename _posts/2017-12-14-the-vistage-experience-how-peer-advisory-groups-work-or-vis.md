@@ -3,8 +3,8 @@ inFeed: true
 description: >-
   The Critical Role of Communications and Engagement in Ensuring Successful
   Business Growth
-dateModified: '2017-12-14T19:44:18.997Z'
-datePublished: '2017-12-14T19:44:19.733Z'
+dateModified: '2017-12-14T19:44:41.867Z'
+datePublished: '2017-12-14T19:44:42.634Z'
 title: The Vistage Experience - How Peer Advisory Groups Work | Vistage
 author: []
 publisher:
@@ -30,6 +30,6 @@ But growth also poses specific challenges to a business.
 
 Here's an interesting article by Vistage, on some of those challenges and how best to deal with them.
 
-Note that Culture, Recognition and Communication make up 3 of the 6\. Never underestimate the importance of comms through change!
+Note that culture, recognition and communication make up 3 of the 6\. Never underestimate the importance of comms through change!
 
 <article style=""><img src="https://www.vistage.com/wp-content/uploads/2017/06/hero-MemberExperience.png" /><h1>The Vistage Experience - How Peer Advisory Groups Work | Vistage</h1><p>"From the superb speakers to dynamic counsel offered by my fellow CEOs to the one-on-one sessions with my Chair, we have fundamentally changed how we run our business, manage our teams and drive learning throughout our organization. Our company health and growing success are directly attributable to my Vistage engagement."</p></article>
