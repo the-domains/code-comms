@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Change//MANAGEMENT
-dateModified: '2017-12-03T01:13:23.320Z'
-datePublished: '2017-12-03T01:13:24.309Z'
+dateModified: '2017-12-14T20:07:45.648Z'
+datePublished: '2017-12-14T20:07:46.085Z'
 title: ''
 author: []
 publisher: {}
