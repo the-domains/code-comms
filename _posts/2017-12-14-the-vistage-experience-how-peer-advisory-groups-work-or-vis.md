@@ -1,10 +1,10 @@
 ---
 inFeed: true
 description: >-
-  The critical role of communications and engagement in ensuring successful
-  business growth
-dateModified: '2017-12-14T19:42:45.798Z'
-datePublished: '2017-12-14T19:42:46.743Z'
+  The Critical Role of Communications and Engagement in Ensuring Successful
+  Business Growth
+dateModified: '2017-12-14T19:43:46.249Z'
+datePublished: '2017-12-14T19:43:46.892Z'
 title: The Vistage Experience - How Peer Advisory Groups Work | Vistage
 author: []
 publisher:
@@ -15,14 +15,14 @@ publisher:
 via: {}
 isBasedOnUrl: >-
   http://midwest.vistage.com/2015/08/19/6-best-practices-for-rapid-growth-periods/
-starred: false
-datePublishedOriginal: '2017-12-14T19:42:46.743Z'
 sourcePath: >-
   _posts/2017-12-14-the-vistage-experience-how-peer-advisory-groups-work-or-vis.md
+starred: false
+datePublishedOriginal: '2017-12-14T19:42:46.743Z'
 _type: MediaObject
 
 ---
-The critical role of communications and engagement in ensuring successful business growth
+The Critical Role of Communications and Engagement in Ensuring Successful Business Growth
 
 In a DBIS survey 2013, nearly half of all medium-sized businesses were classified as having growth, with 21 per cent having high growth.
 
